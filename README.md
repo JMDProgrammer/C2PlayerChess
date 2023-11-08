@@ -35,7 +35,7 @@ where α0 and α1 can be letters from a to h; while β0 and β1 can be integers 
 8.
 
 (->) show: prints out the content of the 2D array on the screen in the form of a table like
-this (the ranks 1,2,..., 8 and files a, b, ..., h must be printed as well ):
+this (the ranks 1,2,..., 8 and files a, b, ..., h must be printed as well )
 
 
 
