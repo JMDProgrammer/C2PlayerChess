@@ -37,5 +37,21 @@ where α0 and α1 can be letters from a to h; while β0 and β1 can be integers 
 (->) show: prints out the content of the 2D array on the screen in the form of a table like
 this (the ranks 1,2,..., 8 and files a, b, ..., h must be printed as well )
 
+(--->)how to run(<---)
 
+(->) make the file with make
+
+make
+
+(->) then run the chess.c file by typing something like:
+
+./chess -w firstPlayer -b secondPlayer
+
+#then more prompts will pop up with instructions
+
+(->) if the game is still not working gcc it:
+
+gcc ./chess (#with options)
+
+---> any questions, ask <---
 
