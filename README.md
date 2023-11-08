@@ -2,6 +2,8 @@
 A two player chess game in C (programming language)
 
 (--->) Command-Line Arguments and Options (<---)
+
+
 (->) -w name: gets the string name as the given name of the player playing with white
 pieces. This name will be displayed close to rank 1 of the board when the board gets
 printed on the screen during the program.
