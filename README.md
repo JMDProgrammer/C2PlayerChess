@@ -26,6 +26,8 @@ ger specifying the limit in minutes. Enforcing time limit is the optional part o
 assignment.
 
 (--->)Program Commands(<---)
+
+
 (->) mv α0β0 α1β1: moves the piece in cell with label α0β0 to cell with label α1β1 where α0
 and α1 can be letters from a to h; while β0 and β1 can be integers from 1 to 8.
  cp α0β0 α1β1: captures the piece in cell with label α1β1 with the piece in cell α0β0
